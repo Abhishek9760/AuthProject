@@ -10,10 +10,10 @@ const Footer = () => {
           <div className="w-full sm:w-1/4 flex flex-col">
             <h3 className="font-semibold mb-4 text-lg">About</h3>
             <ul className="space-y-4">
-              <li><a href="" className="hover:text-red-600 transition">About Us</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Careers</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Press</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Contact</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">About Us</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Careers</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Press</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Contact</a></li>
             </ul>
           </div>
 
@@ -21,10 +21,10 @@ const Footer = () => {
           <div className="w-full sm:w-1/4 flex flex-col">
             <h3 className="font-semibold mb-4 text-lg">Help Center</h3>
             <ul className="space-y-4">
-              <li><a href="" className="hover:text-red-600 transition">FAQ</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Help Articles</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Account & Billing</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Accessibility</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">FAQ</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Help Articles</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Account & Billing</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Accessibility</a></li>
             </ul>
           </div>
 
@@ -32,10 +32,10 @@ const Footer = () => {
           <div className="w-full sm:w-1/4 flex flex-col">
             <h3 className="font-semibold mb-4 text-lg">Legal</h3>
             <ul className="space-y-4">
-              <li><a href="" className="hover:text-red-600 transition">Terms of Use</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Privacy Policy</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Cookie Preferences</a></li>
-              <li><a href="" className="hover:text-red-600 transition">Corporate Information</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Terms of Use</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Privacy Policy</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Cookie Preferences</a></li>
+              <li><a href="#" className="hover:text-red-600 transition">Corporate Information</a></li>
             </ul>
           </div>
 
